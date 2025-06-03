@@ -1,2 +1,2 @@
-# gen-image-desc
-Generate an image description
+# Generate an image description (Image Captioning)
+Temporary now is blank.
